@@ -17,6 +17,7 @@ void loop()
 {
   // put your main code here, to run repeatedly:
   lightFinalArray();
+  delay(10000);
 }
 
 void lightFinalArray()
